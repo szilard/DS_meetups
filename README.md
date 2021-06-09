@@ -2,9 +2,7 @@
 
 
 
-### June 8, 2021
-
-### H2O's GBM
+### H2O's GBM -- June 8, 2021
 
 Overview of H2O GBM implementation
 
