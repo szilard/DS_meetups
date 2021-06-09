@@ -9,8 +9,8 @@ And the Winner Is...: Insights from a Gradient Boosting (GBM) Benchmark
 Szilard Pafka, PhD || Chief Scientist, Epoch
 
 [Abstract+bio](2020-11-10a--GBM_benchmark/abstract_bio.md) ||
-Slides ||
-Video recording
+[Slides](http://docs.google.com/presentation/d/1hRJveGyFArYzfpPSD9XeOi6oCHRjrj12yx4MDIrtPZg/edit) ||
+[Video recording](https://www.youtube.com/watch?v=ecUUUdisKAc)
 
 ### XGBoost
 
