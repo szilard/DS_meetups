@@ -2,7 +2,7 @@
 
 
 
-### H2O's GBM -- June 8, 2021
+### H2O's GBM -- Jun 2021
 
 Overview of H2O GBM implementation
 
@@ -14,7 +14,7 @@ Michal Kurka || Director of Engineering at H2O
 
 
 
-### CatBoost --  March 30, 2021
+### CatBoost --  Mar 2021
 
 CatBoost: Distributed Training, Uncertainty Estimation and Other News
 
@@ -27,7 +27,7 @@ Stanislav Kirillov || Head of CatBoost Development at Yandex
 
 
 
-### LightGBM -- Jan 12, 2021
+### LightGBM -- Jan 2021
 
 Recent Developments in LightGBM
 
@@ -39,7 +39,7 @@ James Lamb || LightGBM Core Developer
 
 
 
-### XGBoost -- Nov 10, 2020
+### XGBoost -- Nov 2020
 
 The State of XGBoost: history and community overview
 
@@ -52,7 +52,7 @@ Senior Systems Software Engineer, NVIDIA || XGBoost Lead Maintainer
 
 
 
-### GBM Benchmark -- Nov 10, 2020
+### GBM Benchmark -- Nov 2020
 
 And the Winner Is...: Insights from a Gradient Boosting (GBM) Benchmark
 
