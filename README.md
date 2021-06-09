@@ -14,9 +14,7 @@ Michal Kurka || Director of Engineering at H2O
 
 
 
-### March 30, 2021
-
-### CatBoost
+### CatBoost --  March 30, 2021
 
 CatBoost: Distributed Training, Uncertainty Estimation and Other News
 
@@ -29,9 +27,7 @@ Stanislav Kirillov || Head of CatBoost Development at Yandex
 
 
 
-### Jan 12, 2021
-
-### LightGBM
+### LightGBM -- Jan 12, 2021
 
 Recent Developments in LightGBM
 
@@ -43,9 +39,7 @@ James Lamb || LightGBM Core Developer
 
 
 
-### Nov 10, 2020
-
-### GBM Benchmark
+### GBM Benchmark -- Nov 10, 2020
 
 And the Winner Is...: Insights from a Gradient Boosting (GBM) Benchmark
 
@@ -55,7 +49,9 @@ Szilard Pafka, PhD || Chief Scientist, Epoch
 [Slides](http://docs.google.com/presentation/d/1hRJveGyFArYzfpPSD9XeOi6oCHRjrj12yx4MDIrtPZg/edit) ||
 [Video recording](https://www.youtube.com/watch?v=ecUUUdisKAc)
 
-### XGBoost
+
+
+### XGBoost -- Nov 10, 2020
 
 The State of XGBoost: history and community overview
 
