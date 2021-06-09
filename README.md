@@ -54,3 +54,20 @@ Stanislav Kirillov || Head of CatBoost Development at Yandex
 [Slides](https://github.com/catboost/catboost/tree/master/slides/2021.03.30%20LA%20Datascience%20meetup) ||
 [Video recording](https://www.youtube.com/watch?v=aTtD2QlQ9n0&list=PLVwJeG_Q73i7UpMciUK7ckTD8zQc7oT0W)
 
+
+
+## June 8, 2021
+
+### H2O's GBM
+
+Overview of H2O GBM implementation
+
+Michal Kurka || Director of Engineering at H2O
+
+[Abstract+bio](2021-06-08--H2O_GBM/abstract_bio.md) ||
+[Slides](https://github.com/h2oai/h2o-meetups/blob/master/2021_06_08_GBM_LA/gbm-la-meetup.pdf) ||
+[Video recording](https://www.youtube.com/watch?v=sNTlt2SMwkU)
+
+
+
+

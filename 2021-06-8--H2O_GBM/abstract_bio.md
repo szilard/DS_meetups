@@ -1,0 +1,9 @@
+Overview of H2O GBM implementation
+
+by Michal Kurka
+
+H2O started its mission to let data scientists train their models on datasets of any size in 2011 with just a few machine learning algorithms, Gradient Boosting Machine (GBM) being one of them. To this day H2O GBM is one of our most popular and full featured algorithms in what grew out to be a well-rounded and diverse machine learning framework. In this talk we will briefly introduce H2O’s ML framework and discuss how it differs from its competitors. Then we will dive into the internals and discover how GBM implementation leverages H2O's MapReduce framework to train models fast in both single-node and distributed environments. Furthermore, we will take a look at the ecosystem that we built to support data scientists to inspect, debug and learn from their models (tree visualization, Shapley, feature interactions, …). We will touch on some of the more nuanced features of H2O GBM - applying monotonic constraints and implementing a custom loss function. We will explore options H2O provides for deploying models in production. Finally, we will take a look at our roadmap and discuss how users can contribute to make H2O GBM better.
+
+Speaker Bio:
+
+Michal holds a Masters degree in Mathematical Optimization. For the last 10 years he was involved in implementing scalable ML algos using frameworks like Hadoop MapReduce, Spark and H2O. As a Director of Engineering in H2O.ai he is responsible for development of H2O's open source machine learning framework H2O-3. He is passionate about performance of distributed systems and he contributed to performance improvements of the overall platform as well as GBM specifically. He implemented a variety of GBM features including TreeSHAP and monotonicity constraints. He also maintains H2O’s implementation of PSVM, CoxPH, word2vec and was responsible for H2O's XGBoost integration.
