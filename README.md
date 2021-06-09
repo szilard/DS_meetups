@@ -1,4 +1,4 @@
-# Content from the LA Data Science Meetup
+# Contents from the LA Data Science Meetup
 
 ## Nov 10, 2020
 
