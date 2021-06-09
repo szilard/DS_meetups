@@ -1,6 +1,7 @@
 The State of XGBoost: history and community overview
 
 Hyunsu Cho
+
 Senior Systems Software Engineer, NVIDIA
 
 What used to be a research prototype to process several GBs of data on a single workstation, XGBoost has now grown to be a production-quality software that can process hundreds of GBs of data in a cluster. In the last few years, XGBoost has added multiple major features, such as support for NVIDIA GPUs as a hardware accelerator and distributed computing platforms including Apache Spark and Dask. This talk will provide a short tour of the history of XGBoost, recognizing its major milestones. We will particularly pay attention to how XGBoost has integrated with major data science packages and frameworks, such as scikit-learn, R, Apache Spark, Dask, and RAPIDS AI. We will also share current efforts to grow the community, to put the open source project on a sustainable path. Finally, we will share the future roadmap of the project and list of wish items.

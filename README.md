@@ -19,7 +19,7 @@ Szilard Pafka, PhD || Chief Scientist, Epoch
 The State of XGBoost: history and community overview
 
 Hyunsu Cho ||
-Senior Systems Software Engineer, NVIDIA
+Senior Systems Software Engineer, NVIDIA || XGBoost Lead Maintainer
 
 [Abstract+bio](2020-11-10b--XGBoost/abstract_bio.md) ||
 [Slides](https://drive.google.com/file/d/1YD8s6x0ZR3ON99UbiZpPM5OPjtQqVyH3/view?usp=sharing) ||
@@ -33,7 +33,7 @@ Senior Systems Software Engineer, NVIDIA
 
 Recent Developments in LightGBM
 
-James Lamb
+James Lamb || LightGBM Core Developer
 
 [Abstract+bio](2021-01-12--LightGBM/abstract_bio.md) ||
 [Slides](https://github.com/jameslamb/talks/tree/main/recent-developments-in-lightgbm) ||

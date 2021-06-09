@@ -1,6 +1,7 @@
 And the Winner Is...: Insights from a Gradient Boosting (GBM) Benchmark
 
 Szilard Pafka, PhD
+
 Chief Scientist, Epoch
 
 With all the hype about deep learning and "AI", it is not well publicized that for structured/tabular data widely encountered in business applications it is actually another machine learning algorithm, the gradient boosting machine (GBM) that most often achieves the highest accuracy in supervised learning/prediction tasks. In this talk we'll review some of the main open source GBM implementations such as xgboost, h2o, lightgbm, catboost, Spark MLlib and we'll discuss some of their main performance characteristics. We'll go more in-depth vs all my previous talks on the topic, and we'll discuss in details training speed, memory footprint, scaling to multiple CPU cores, performance degradation on hyperthreaded cores and multi-socket CPUs, performance on latest Intel and AMD CPUs, GPU implementations, GPU utilization patterns etc. and also several 2020 recent updates such as improved multi-core performance in xgboost and speedups in catboost.
