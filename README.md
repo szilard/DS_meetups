@@ -8,7 +8,7 @@ And the Winner Is...: Insights from a Gradient Boosting (GBM) Benchmark
 
 Szilard Pafka, PhD || Chief Scientist, Epoch
 
-[Abstract+bio](2020-11-10a/abstract_bio.md) ||
+[Abstract+bio](2020-11-10a--GBM_benchmark/abstract_bio.md) ||
 Slides ||
 Video recording
 
