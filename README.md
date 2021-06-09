@@ -56,7 +56,7 @@ Senior Systems Software Engineer, NVIDIA || XGBoost Lead Maintainer
 
 And the Winner Is...: Insights from a Gradient Boosting (GBM) Benchmark
 
-Szilard Pafka, PhD || Chief Scientist, Epoch
+Szilard Pafka, PhD || Chief Scientist, Epoch || GBM Benchmark Author
 
 [Abstract+bio](2020-11-10a--GBM_benchmark/abstract_bio.md) ||
 [Slides](http://docs.google.com/presentation/d/1hRJveGyFArYzfpPSD9XeOi6oCHRjrj12yx4MDIrtPZg/edit) ||
