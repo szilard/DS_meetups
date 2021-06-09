@@ -40,3 +40,17 @@ James Lamb || LightGBM Core Developer
 [Video recording](https://www.youtube.com/watch?v=5nKSMXBFhes&list=PLVwJeG_Q73i7UpMciUK7ckTD8zQc7oT0W)
 
 
+
+## March 30, 2021
+
+### CatBoost
+
+CatBoost: Distributed Training, Uncertainty Estimation and Other News
+
+Stanislav Kirillov || Head of CatBoost Development at Yandex
+
+
+[Abstract+bio](2021-03-30--CatBoost/abstract_bio.md) ||
+[Slides](https://github.com/catboost/catboost/tree/master/slides/2021.03.30%20LA%20Datascience%20meetup) ||
+[Video recording](https://www.youtube.com/watch?v=aTtD2QlQ9n0&list=PLVwJeG_Q73i7UpMciUK7ckTD8zQc7oT0W)
+
