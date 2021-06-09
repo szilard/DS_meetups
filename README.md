@@ -39,18 +39,6 @@ James Lamb || LightGBM Core Developer
 
 
 
-### GBM Benchmark -- Nov 10, 2020
-
-And the Winner Is...: Insights from a Gradient Boosting (GBM) Benchmark
-
-Szilard Pafka, PhD || Chief Scientist, Epoch
-
-[Abstract+bio](2020-11-10a--GBM_benchmark/abstract_bio.md) ||
-[Slides](http://docs.google.com/presentation/d/1hRJveGyFArYzfpPSD9XeOi6oCHRjrj12yx4MDIrtPZg/edit) ||
-[Video recording](https://www.youtube.com/watch?v=ecUUUdisKAc)
-
-
-
 ### XGBoost -- Nov 10, 2020
 
 The State of XGBoost: history and community overview
@@ -61,5 +49,18 @@ Senior Systems Software Engineer, NVIDIA || XGBoost Lead Maintainer
 [Abstract+bio](2020-11-10b--XGBoost/abstract_bio.md) ||
 [Slides](https://drive.google.com/file/d/1YD8s6x0ZR3ON99UbiZpPM5OPjtQqVyH3/view?usp=sharing) ||
 [Video recording](https://www.youtube.com/watch?v=yJJlhdns54A)
+
+
+
+### GBM Benchmark -- Nov 10, 2020
+
+And the Winner Is...: Insights from a Gradient Boosting (GBM) Benchmark
+
+Szilard Pafka, PhD || Chief Scientist, Epoch
+
+[Abstract+bio](2020-11-10a--GBM_benchmark/abstract_bio.md) ||
+[Slides](http://docs.google.com/presentation/d/1hRJveGyFArYzfpPSD9XeOi6oCHRjrj12yx4MDIrtPZg/edit) ||
+[Video recording](https://www.youtube.com/watch?v=ecUUUdisKAc)
+
 
 
