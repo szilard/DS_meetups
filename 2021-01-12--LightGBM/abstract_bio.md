@@ -18,5 +18,7 @@ Speaker Bio:
 James Lamb is a software engineer at Saturn Cloud, where he works on a managed data science platform built on Dask. Before Saturn Cloud, James worked on industrial internet of things (IIoT) problems as a data scientist at AWS and Chicago-based Uptake. He is a core maintainer on LightGBM, and has contributed on other open source data science and data engineering projects such as XGBoost and prefect. James holds Masters degrees in Applied Economics (Marquette University) and Data Science (University of California, Berkeley).
 
 Twitter: https://twitter.com/_jameslamb
+
 GitHub: https://github.com/jameslamb
+
 LinkedIn: https://linkedin.com/in/jameslamb1/
