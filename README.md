@@ -1,4 +1,4 @@
-## Contents from the LA Data Science Meetup
+## Contents from the Real Data Science USA (formerly LA Data Science) Meetup
 
 
 
